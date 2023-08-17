@@ -6,8 +6,8 @@ WORKDIR /app
 
 COPY .env /app/application-dev.properties
 
-# Copia el archivo JAR de tu aplicación al contenedor (asegúrate de que el nombre del archivo JAR coincida)
-COPY target/institute-0.0.1-SNAPSHOT.jar /app/app.jar
+# Copia el archivo JAR de tu aplicación al contenedor
+COPY /target/institute-0.0.1-SNAPSHOT.jar /app/app.jar
 
 # Exponer el puerto en el que escucha tu aplicación Spring Boot (ajusta si es diferente)
 EXPOSE 8080
