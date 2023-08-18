@@ -7,7 +7,6 @@ RUN mvn clean package
 # Etapa final para la imagen en producción
 FROM openjdk:17-alpine
 WORKDIR /app
-COPY .env /app/application-dev.properties
 COPY --from=build /app/target/*.jar /app/app.jar
 EXPOSE 8080
 CMD ["java", "-jar", "app.jar"]
