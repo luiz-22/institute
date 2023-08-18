@@ -4,7 +4,7 @@ FROM openjdk:17-alpine
 # Define el directorio de trabajo en el contenedor
 WORKDIR /app
 
-COPY .env /app/application-dev.properties
+#COPY .env /app/application-dev.properties
 
 # Copia el archivo JAR de tu aplicación al contenedor
 COPY target/institute-0.0.1-SNAPSHOT.jar /app/app.jar
