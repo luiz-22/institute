@@ -1,7 +1,5 @@
 # Institute
 
-[Link](https://institute-1a6h.onrender.com/)
-
 El proyecto "Institute" es una plataforma de gestión educativa diseñada para simplificar la administración de estudiantes, profesores y materias.
 
 ## Características Principales:
@@ -437,6 +435,6 @@ En este caso creamos un sencillo front-end solo con html y js.
 - Prueba de integración
 - Documentación (Swagger)
 
-## Contacto:
+## Contactame:
 
-Si tienes preguntas o comentarios, no dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/luiz22/) o [GitHub](https://github.com/luiz-22).
+[LinkedIn](https://www.linkedin.com/in/luiz22/)
