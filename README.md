@@ -17,7 +17,7 @@ El proyecto "Institute" es una plataforma de gestión educativa diseñada para s
 ## Dependencias
 
 - Spring Web
-- Spring Data JPA
+- Spring `Data` JPA
 - H2
 - Lombok
 - Validation
