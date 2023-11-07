@@ -435,6 +435,6 @@ En este caso creamos un sencillo front-end solo con html y js.
 - Prueba de integración
 - Documentación (Swagger)
 
-## Contacto:
+## Contactame:
 
-Si tienes preguntas o comentarios, no dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/luiz22/) o [GitHub](https://github.com/luiz-22).
+[LinkedIn](https://www.linkedin.com/in/luiz22/)
