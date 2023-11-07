@@ -24,7 +24,7 @@ public class Student {
     private int dni;
     private LocalDate birthdate;
 
-    @OneToOne(fetch = FetchType.EAGER,cascade = CascadeType.ALL)
+    @OneToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     @JoinColumn(name = "id_address")
     private Address address;
 
